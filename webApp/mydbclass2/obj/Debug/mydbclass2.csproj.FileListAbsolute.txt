@@ -1,0 +1,15 @@
+D:\dotnet\webApp\mydbclass2\obj\Debug\mydbclass2.csprojAssemblyReference.cache
+D:\dotnet\webApp\mydbclass2\obj\Debug\mydbclass2.csproj.CoreCompileInputs.cache
+D:\dotnet\webApp\mydbclass2\bin\Debug\mydbclass2.dll.config
+D:\dotnet\webApp\mydbclass2\bin\Debug\mydbclass2.dll
+D:\dotnet\webApp\mydbclass2\bin\Debug\mydbclass2.pdb
+D:\dotnet\webApp\mydbclass2\bin\Debug\EmployeeModel.dll
+D:\dotnet\webApp\mydbclass2\bin\Debug\EntityFramework.dll
+D:\dotnet\webApp\mydbclass2\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\webApp\mydbclass2\bin\Debug\EmployeeModel.pdb
+D:\dotnet\webApp\mydbclass2\bin\Debug\EmployeeModel.dll.config
+D:\dotnet\webApp\mydbclass2\bin\Debug\EntityFramework.xml
+D:\dotnet\webApp\mydbclass2\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\webApp\mydbclass2\obj\Debug\mydbclass2.csproj.CopyComplete
+D:\dotnet\webApp\mydbclass2\obj\Debug\mydbclass2.dll
+D:\dotnet\webApp\mydbclass2\obj\Debug\mydbclass2.pdb

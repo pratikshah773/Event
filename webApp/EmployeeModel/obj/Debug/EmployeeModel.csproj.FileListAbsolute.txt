@@ -1,0 +1,7 @@
+D:\dotnet\webApp\EmployeeModel\bin\Debug\EmployeeModel.dll
+D:\dotnet\webApp\EmployeeModel\bin\Debug\EmployeeModel.pdb
+D:\dotnet\webApp\EmployeeModel\obj\Debug\EmployeeModel.csprojAssemblyReference.cache
+D:\dotnet\webApp\EmployeeModel\obj\Debug\EmployeeModel.csproj.CoreCompileInputs.cache
+D:\dotnet\webApp\EmployeeModel\obj\Debug\EmployeeModel.dll
+D:\dotnet\webApp\EmployeeModel\obj\Debug\EmployeeModel.pdb
+D:\dotnet\webApp\EmployeeModel\bin\Debug\EmployeeModel.dll.config
